@@ -1,0 +1,9 @@
+class Clientes{
+	
+	string nombre;
+	int edad;
+	string celular;
+	string direccion;
+}
+
+	
